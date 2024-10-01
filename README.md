@@ -1,7 +1,9 @@
 # Odin Recipes
 
-This a required project for The Odin Project (TOP) Foundations course.
+This a required project for [The Odin Project](https://www.theodinproject.com/) (TOP) Foundations course.
 
-## How It's Made
+## Skill Required
+
+This project only required using the following:
 
 - HTML
