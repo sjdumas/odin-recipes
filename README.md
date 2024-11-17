@@ -1,9 +1,8 @@
 # Odin Recipes
+This is a required project - Odin Recipes - for [The Odin Project](https://www.theodinproject.com/).
 
-This a required project for [The Odin Project](https://www.theodinproject.com/) (TOP) Foundations course.
-
-## Skill Required
-
-This project only required using the following:
-
+## Skills Required
 - HTML
+
+## Demo
+Check out the [live demo](https://sjdumas.github.io/odin-recipes/).
